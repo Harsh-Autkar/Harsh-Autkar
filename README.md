@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-⚛️ Currently Learning React.<br>🤖 Working on Project "Student Network".<br>🎓 A Web Developer
+⚛️ Currently Learning React.<br>🤖 Working on Project "Student Network".<br>🎓 A Web Developer <br> Machine Learning Engineering
 
 
 ## 🌐 Socials:
